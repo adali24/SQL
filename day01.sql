@@ -192,4 +192,4 @@ select * from ogrenciler where sinav_notu=65 or sinav_notu=85;
 
 -- 2.YOL
 
-select * from ogrenciler where sinav_notu in(65,85);
+select * from ogrenciler where sinav_notu in(65,85); 
